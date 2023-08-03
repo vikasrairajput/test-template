@@ -1,6 +1,6 @@
 Please go the the `Preview` tab and select the appropriate sub-template:
 
-##new section
+## New section
 [] item 1
 [] item 2
 
